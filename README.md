@@ -25,3 +25,5 @@ Founder of **Vardin Infinity Ltd** — building ethical, faith-driven projects t
 ## 📫 Connect
 - Email: vardinicares@gmail.com
 - Website: Coming soon!
+## 📇 ORCID iD  
+[0009-0004-1626-5975](https://orcid.org/0009-0004-1626-5975)
