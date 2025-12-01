@@ -12,9 +12,9 @@ Founder of **Vardin Infinity Ltd** — building ethical, faith-driven projects t
 - Preparing for opportunities in other AI developped countries while mentoring beginners
 
 ## 🔧 Skills
-- Node.js, React, Python basics
-- WordPress theme conversion & hosting setup
-- API integration (Printify, Stripe, PayPal)
+- Node.js, React, Python basics, Web Apps, Googleplay Apps
+- Website bulding, Hosting.
+- Digital design.
 - Transparent, modular workflows
 
 ## 🚀 Current Projects
